@@ -1,6 +1,6 @@
 ### This code was written by Tinka Bakker and Ameen Abu-Hanna as part of the SIMPLIFY project at Amsterdam UMC NL
-### This code is used for a research paper by T. Bakker & J.E. Klopotowska et al. 
-### The research paper has been submitted to a journal and has been shared on github as part of the Data Sharing Agreement stated in the paper
+### This code is used for a research paper by T. Bakker & J.E. Klopotowska et al. published in The Lancet: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(23)02465-0/fulltext
+### This code has been shared on github as part of the Data Sharing Agreement stated in the paper
 
 
 ############### reading packages ################# 
